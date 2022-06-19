@@ -1,4 +1,4 @@
-# Hi there! <img src="[https://your-image-url.type]https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100" height="100">
+# Hi there! <img src="https://your-image-url.type]https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
 
 <!--
 **Mangi-comic/Mangi-comic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
