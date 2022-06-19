@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
 
-漫集 Mangi 是個專為漫畫愛好者所打造的收藏紀錄平台，聚合多個漫畫平台如 Line Webtoon、Kakao Webtoon、快看漫畫等，幫助使用者快速整理、紀錄自己的漫畫清單，也能搜尋到最新、最熱門的漫畫作品，直接前往正版平台觀看漫畫，還能將自己收藏的書單分享給親朋好友，推坑找同好再也不麻煩！
+漫集 Mangi 是個專為漫畫愛好者所打造的收藏紀錄平台，聚合多個漫畫平台如 Line Webtoon、Kakao Webtoon、快看漫畫等入口，幫助使用者快速整理、紀錄自己的漫畫清單，也能搜尋到最新、最熱門的漫畫作品，直接前往正版平台觀看漫畫，還能將自己收藏的書單分享給親朋好友，推坑找同好再也不麻煩！
 <!--
 **Mangi-comic/Mangi-comic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
